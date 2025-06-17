@@ -1,3 +1,7 @@
+#Try Now
+[![View on GitHub](https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/NotHemraj/TELEGRAM-VIDEO-SELLER)
+[![Try the Bot](https://img.shields.io/badge/Live%20Bot-@Advance__video__bot-blue?style=for-the-badge&logo=telegram)](https://t.me/Advance_video_bot)
+
 # Telegram Video Sales Bot - User Documentation
 
 ## Overview
@@ -98,3 +102,6 @@ For additional support or feature requests, please contact the developer who pro
 ## License
 
 This bot is provided for your personal use only and is not to be redistributed without permission.
+## More details
+
+this bot uses inbuilt telegram currency 'XTR' Also known as Star
